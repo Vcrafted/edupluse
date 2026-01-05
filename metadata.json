@@ -1,0 +1,5 @@
+{
+  "name": "EduPulse - Smart Student Performance Analyzer",
+  "description": "An intelligent student performance analyzer that uses Gemini AI to provide actionable academic insights, predict outcomes, and visualize performance trends through intuitive dashboards.",
+  "requestFramePermissions": []
+}
